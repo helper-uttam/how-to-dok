@@ -7,6 +7,7 @@
     - [Cassandra](#cassandra)
     - [Docker](#docker)
     - [Kubernetes](#kubernetes)
+    - [K8ssandra](#k8ssandra)
 - [Documentation/Cheat Sheets](#documentationcheat-sheets)  
 - [Blogs/Articles](#blogsarticles) 
 - [Other Resources](#other-resources)
@@ -32,6 +33,10 @@
 - ### Kubernetes
 
     1. [Kubernetes Tutorial for Beginners - TechWorld with Nana](https://www.youtube.com/watch?v=X48VuDVv0do&t=803s)
+
+- ### K8ssandra
+
+    1. [Introducing K8ssandra - Apache Cassandr & Kubernetes](https://youtu.be/pvzr75ZYwLE)
 
 ## Documentation/Cheat Sheets
 
